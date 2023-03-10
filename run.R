@@ -4,6 +4,8 @@ library(dashHtmlComponents)
 library(dashBootstrapComponents)
 library(ggplot2)
 library(plotly)
+library(tidyr)
+library(lubridate)
 
 dataset <- read.csv('data/processed/Sustainability_cleaned.csv')
 
@@ -387,4 +389,4 @@ app$callback(output('summ-1', 'figure'),
                ggplotly(chart) %>% layout(dragmode = 'select')
              })
 
-app$run_server(debug = T)
+app$run_server(host = '0.0.0.0')
