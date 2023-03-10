@@ -1,6 +1,6 @@
-# DATA551_WSI
+# DATA551_WSI_R
 
-**Link to Heroku app -** https://data551-app-v1.herokuapp.com/
+**Link to Heroku R app -** https://data551-app-v1-r.herokuapp.com/
 
 # WorldSustainabilityDashboard
 
