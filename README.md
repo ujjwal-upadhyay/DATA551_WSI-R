@@ -18,7 +18,8 @@ The last page will have two graphs both a bubble chart (bottom-left) and a pie c
 
 ## App Sketch
 
-### Page 1 <<>Not available for R version>
+### Page 1
+##### This page is not available for R version
 
 ![World Sustainability Dashboard, Page 1](./dashboard_sketch/page1.png)
 
