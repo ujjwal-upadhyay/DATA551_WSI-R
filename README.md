@@ -2,6 +2,8 @@
 
 **Link to Heroku R app -** https://data551-app-v1-r.herokuapp.com/
 
+![Dash Recording R](dashboard_sketch/Dash_Recording_R.gif)
+
 # WorldSustainabilityDashboard
 
 World Sustainability Dashboard is created to track the performance of 173 countries against a range of sustainability metrics over a 19-year period from 2000 to 2018.
